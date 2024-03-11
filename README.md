@@ -9,7 +9,7 @@ Limited Visibility into E-commerce Sales Performance and Customer Behavior:
 
 This e-commerce business currently lacks a comprehensive view of crucial sales metrics, hindering its ability to:
 
-Effectively analyze sales trends: While the dashboard provides a basic overview of sales over time, it doesn't offer insights into factors influencing these trends (e.g., marketing campaigns, seasonal variations).
+
 ## How the this Dashboard Addresses the Problem:
 
 Decision-Making Support:
